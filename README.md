@@ -3,6 +3,9 @@
 ## Overview
 This interactive Weekly Health Performance Dashboard was developed to empower district-level health officials in Bihar to effectively monitor and evaluate healthcare facility performance on a weekly basis. It provides a top-down view from district to individual facility level, enabling targeted interventions and better resource management.
 
+<img width="960" alt="Weekly_performance_Home" src="https://github.com/user-attachments/assets/9d27e027-fa7a-4eb1-b752-004c49f9b2bd" />
+
+
 ## Objective
 To streamline health monitoring by offering a centralized dashboard where stakeholders can track real-time performance trends across blocks, facilities, and districts — ultimately supporting data-driven decision-making and improved healthcare delivery.
 
